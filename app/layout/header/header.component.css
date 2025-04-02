@@ -1,0 +1,13 @@
+header{
+    height: 100px;
+    
+   
+   
+}
+.site-logo{
+   
+    font: 1.5em;
+   background-color: var(--primary-color);
+   color: white;
+
+}

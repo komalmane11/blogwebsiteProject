@@ -1,0 +1,19 @@
+nav{
+    margin-top: 100px;
+    height: 50px;
+    /* background-color: var(--navbar-footer-color); */
+     background-color: brown; 
+     color:white;
+    
+    
+}
+.nav-link{
+     
+     color: white; 
+    /* color:var(--primary-color); */
+}
+.navbar-nav .nav-item{
+    margin-right: 5vh;
+    
+   
+}
